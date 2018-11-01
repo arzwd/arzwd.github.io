@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 1em;
+}
+
+p + p {
+    text-indent: 1em;
+}
+
+.container {
+    margin: 0 auto;
+    width: 50%;
+}
